@@ -1,0 +1,1 @@
+export const GET_TRANSPORT = 'myTransport/GET_TRANSPORT';
